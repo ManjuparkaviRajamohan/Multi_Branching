@@ -1,1 +1,3 @@
-Going to create multi-branch workflow
+Going to create multi-branch workflow.
+This is version 2 of my app.
+Feature 1 has been implemented.
